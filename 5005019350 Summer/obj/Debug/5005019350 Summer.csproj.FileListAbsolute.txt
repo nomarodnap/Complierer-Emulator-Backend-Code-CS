@@ -1,0 +1,6 @@
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\5005019350 Summer\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\5005019350 Summer\5005019350 Summer\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\5005019350 Summer\5005019350 Summer\bin\Debug\5005019350 Summer.exe
+C:\Documents and Settings\Administrator\Desktop\5005019350 Summer\5005019350 Summer\bin\Debug\5005019350 Summer.pdb
+C:\Documents and Settings\Administrator\Desktop\5005019350 Summer\5005019350 Summer\obj\Debug\5005019350 Summer.exe
+C:\Documents and Settings\Administrator\Desktop\5005019350 Summer\5005019350 Summer\obj\Debug\5005019350 Summer.pdb
