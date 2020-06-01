@@ -8,6 +8,7 @@
 
 
 เปลี่ยน String ตรงฟังชั่นนี้ ท้ายโปรแกรม
+
         static void Main(string[] args)
         {
             string input =
